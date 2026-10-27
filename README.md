@@ -11,6 +11,6 @@ I am a junior in college, attending at UTSA. My major is in Cybersecurity along 
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/LyndsK)
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lyndsey-kuenstler-9993a7310/)]
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](Lyndsey Kuenstler)]
 
 _"Honor defeats the hunger for power"_
